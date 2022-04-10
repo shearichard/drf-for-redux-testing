@@ -7,6 +7,7 @@ name = "pypi"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+django-model-utils = "*"
 
 [dev-packages]
 
