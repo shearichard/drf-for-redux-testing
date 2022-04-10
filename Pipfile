@@ -8,6 +8,7 @@ djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
 django-model-utils = "*"
+httpie = "*"
 
 [dev-packages]
 
