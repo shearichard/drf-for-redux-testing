@@ -1,13 +1,12 @@
 # drf-for-redux-testing
 
-[![Build Status](https://travis-ci.org/shearichard/drf-for-redux-testing.svg?branch=master)](https://travis-ci.org/shearichard/drf-for-redux-testing)
 [![Built with](https://img.shields.io/badge/Built_with-Cookiecutter_Django_Rest-F7B633.svg)](https://github.com/agconti/cookiecutter-django-rest)
 
-A Django Rest Framework for Redux Experimentation. Check out the project's [documentation](http://shearichard.github.io/drf-for-redux-testing/).
+A Django Rest Framework for Redux Experimentation. 
 
 # Prerequisites
 
-- [Docker](https://docs.docker.com/docker-for-mac/install/)  
+- Docker
 
 # Local Development
 
