@@ -9,6 +9,7 @@ markdown = "*"
 django-filter = "*"
 django-model-utils = "*"
 httpie = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
