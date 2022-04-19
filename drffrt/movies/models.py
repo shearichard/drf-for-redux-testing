@@ -2,6 +2,7 @@ from django.db import models
 
 class Movie(models.Model):
 
+    id = models.BigIntegerField(primary_key=True)
     film = models.CharField(max_length=100) # the title of the film
     year = models.SmallIntegerField()
     audience_score_percent = models.DecimalField(max_digits=4, decimal_places=2, blank=True, null=True)
