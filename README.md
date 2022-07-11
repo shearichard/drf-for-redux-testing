@@ -3,6 +3,12 @@
 
 A simple Django Rest Framework app to work with the [Redux Toolkit](https://redux-toolkit.js.org/rtk-query/usage-with-typescript).
 
+A number of API end points are provided to interact with a database of movie information.
+
+## API Documentation
+
+The API endpoints are documented as part of the project and can be accessed at http://127.0.0.1:8000/swagger .
+
 ## Sample API calls
 
 ### Movies 
