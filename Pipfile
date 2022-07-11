@@ -10,6 +10,7 @@ django-filter = "*"
 django-model-utils = "*"
 httpie = "*"
 django-cors-headers = "*"
+drf-yasg = "*"
 
 [dev-packages]
 
