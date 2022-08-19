@@ -13,4 +13,5 @@ class Movie(models.Model):
     worldwide_gross_usd = models.DecimalField(max_digits=10, decimal_places=2, blank=True, null=True)
 
     class Meta:
-        ordering = ['film', 'year']
+        pass
+        #ordering = ['film', 'year']
