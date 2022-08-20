@@ -9,7 +9,7 @@ class MovieList(generics.ListCreateAPIView):
     queryset = Movie.objects.all()
     serializer_class = MovieSerializer
     filter_backends = [filters.OrderingFilter]
-    ordering_fields = ['film', 'year', 'lead_studio']
+    ordering_fields = ['id', 'film', 'year', 'lead_studio']
 
 
 class MovieDetail(generics.RetrieveUpdateDestroyAPIView):
